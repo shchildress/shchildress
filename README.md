@@ -10,6 +10,12 @@
 
   - [Starbase Impact Assessment](https://github.com/shchildress/StarbaseImpactAssessment)
 
+  - [The Future of Texas Water Supply](https://github.com/shchildress/TexasWater)
+
+  - [Onion Creek Greenway Suitability Analysis](https://github.com/shchildress/OnionCreekSuitability)
+
+  - [Climatology of Texas](https://github.com/shchildress/TexasClimatology)
+
 <h2>Cartography</h2>
 
 - [Austin Topographic Map Series](https://github.com/TopographicMapSeries)
@@ -19,6 +25,8 @@
 - [State Park Map Redesign](https://github.com/shchildress/StateParkMap)
 
 - [Topo TNM Style Map](https://github.com/shchildress/TopoTNMStyle)
+
+- [Classic Cartography](https://github.com/shchildress/ClassicCartography)
 
 
 <h2> 3D Visualization and Analysis</h2>
