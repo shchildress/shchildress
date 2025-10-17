@@ -2,10 +2,8 @@
 
 <h2>Spatial Analysis</h2>
 
-- <b>Barton Springs Pool 3D Visualization and Analysis</b>
-  - [Barton Springs Visualization](https://github.com/shchildress/BartonSpringsVisualization)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -26,9 +24,8 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>3D Visualization and Analysis</h2>
 - <b>Barton Springs Pool 3D Visualization and Analysis</b>
-
+  - [Barton Springs Visualization](https://github.com/shchildress/BartonSpringsVisualization)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
