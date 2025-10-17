@@ -20,7 +20,7 @@
 
 <h2>Cartography</h2>
 
-- [Austin Topographic Map Series](https://github.com/TopographicMapSeries)
+- [Austin Topographic Map Series](https://github.com/shchildress/TopographicMapSeries)
   
 - [Golden-Cheeked Warbler Range and Habitat in Texas](https://github.com/shchildress/GoldenCheekedWarbler)
 
