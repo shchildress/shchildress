@@ -6,7 +6,7 @@
 
   - [Capital Metro Jitney Project](https://github.com/shchildress/CapitalMetroJitneyPilot) 
 
-  - [Riverbet Park 3D Analysis and Visualization](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Riverbet Park 3D Analysis and Visualization](https://github.com/shchildress/RiverBatPark)
 
 <h2>Cartography</h2>
 
