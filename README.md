@@ -16,6 +16,8 @@
 
   - [Climatology of Texas](https://github.com/shchildress/TexasClimatology)
 
+  - [Analyzing the Ghost Map](https://github.com/shchildress/GhostMap)
+
 <h2>Cartography</h2>
 
 - [Austin Topographic Map Series](https://github.com/TopographicMapSeries)
