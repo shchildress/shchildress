@@ -28,6 +28,8 @@
 
 - [Classic Cartography](https://github.com/shchildress/ClassicCartography)
 
+- [Wrecks and Obstructions off the Southern Coast of O'ahu](https://github.com/shchildress/OahuWrecks)
+
 
 <h2> 3D Visualization and Analysis</h2>
 
