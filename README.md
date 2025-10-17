@@ -35,7 +35,7 @@
 
 <h2> 3D Visualization and Analysis</h2>
 
-- [Barton Springs Pool](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Barton Springs Pool](https://imgur.com/a/FTGXY9a)
 
 
 <!--
