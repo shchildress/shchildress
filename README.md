@@ -8,6 +8,8 @@
 
   - [Riverbat Park 3D Analysis and Visualization](https://github.com/shchildress/RiverBatPark)
 
+  - [Starbase Impact Assessment](https://github.com/shchildress/StarbaseImpactAssessment)
+
 <h2>Cartography</h2>
 
 - [Austin Topographic Map Series](https://github.com/TopographicMapSeries)
