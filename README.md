@@ -10,7 +10,9 @@
 
 <h2>Cartography</h2>
 
-- [Austin Topographic Map Series](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Austin Topographic Map Series](https://github.com/TopographicMapSeries)
+  
+- [Golden-Cheeked Warbler Range and Habitat in Texas](https://github.com/shchildress/GoldenCheekedWarbler)
 
 
 <h2> 3D Visualization and Analysis</h2>
