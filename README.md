@@ -16,6 +16,8 @@
   
 - [Golden-Cheeked Warbler Range and Habitat in Texas](https://github.com/shchildress/GoldenCheekedWarbler)
 
+- [State Park Map Redesign](https://github.com/shchildress/StateParkMap)
+
 
 <h2> 3D Visualization and Analysis</h2>
 
