@@ -34,6 +34,7 @@
 
 
 <h2> 3D Visualization and Analysis</h2>
+- [Barton Springs Pool 3D Visualization and Analysis](https://github.com/shchildress/BartonSpringsVisualization)
 
 
 
