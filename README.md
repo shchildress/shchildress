@@ -39,8 +39,8 @@
 - [Mission Concepcion](https://imgur.com/a/ttwmuNc) 
 
 
-<h2>Arcade</h2>
+<!--
 
 - [Styling Layers and Configuring Pop-ups](https://github/com/shchildress/ArcadeBasics)
 
-- [Designing Custom Symbols](https://github/com/shchildress/ArcadeCustomSymbols)
+- [Designing Custom Symbols](https://github/com/shchildress/ArcadeCustomSymbols)-->
