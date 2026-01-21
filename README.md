@@ -2,7 +2,7 @@
 
 <h2>Spatial Analysis</h2>
 
-
+  - [Geostatistical Assessment of the Built Environment](https://github.com/shchildress/NoiseAssessment)
 
   - [Capital Metro Jitney Project](https://github.com/shchildress/CapitalMetroJitneyPilot) 
 
@@ -17,6 +17,7 @@
   - [Climatology of Texas](https://github.com/shchildress/TexasClimatology)
 
   - [Analyzing the Ghost Map](https://github.com/shchildress/GhostMap)
+
 
 <h2>Cartography</h2>
 
