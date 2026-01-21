@@ -10,6 +10,8 @@
 
   - [Starbase Impact Assessment](https://github.com/shchildress/StarbaseImpactAssessment)
 
+  - [Deep Learning Comparison](https://github.com/shchildress/DeepLearningComparison)
+
   - [The Future of Texas Water Supply](https://github.com/shchildress/TexasWater)
 
   - [Onion Creek Greenway Suitability Analysis](https://github.com/shchildress/OnionCreekSuitability)
